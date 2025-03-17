@@ -1,0 +1,58 @@
+h1 {
+    font-size: large;
+}
+body div{
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.css-framework{
+    display: flex;
+    margin-top: 20px;
+    
+}
+.css-framework button{
+    margin-right: 20px;
+}
+.cricket button{
+    margin-right: 20px;
+}
+
+
+.ai button{
+    margin-right: 20px;
+}
+* {
+    margin: 0;
+    padding: 0;
+    background-color: #1E201E;
+}
+
+.google button:hover {
+    box-shadow: 0 0 10px #fff940
+}
+
+body button:hover {
+    box-shadow:  0 0 10px white;
+} 
+body input:hover {
+    box-shadow: 0 0 10px white;
+}
+
+.ai button:hover{
+    box-shadow: 0 0 10px #FFBE98 ;
+}
+.css-framework button:hover{
+    box-shadow: 0 0 10px #F9F7C9;
+}
+h2{
+    font-family: "Montserrat" , system-ui;
+    font-weight: 400;
+    margin-left: 20px;
+    margin-bottom: 5px;
+    color: white;
+    background-color: #3C3D37;
+    width: fit-content;
+}
+.fonts-icons button{
+    margin-right: 20px;
+}
